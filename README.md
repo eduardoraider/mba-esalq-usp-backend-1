@@ -1,7 +1,5 @@
 # Backend Development I - MBA Software Engineering -1st SEM - 2024
 
-Sure, here's the translation of the README:
-
 ## Using Docker with Python 3.12
 
 - Download this repository
